@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">myproject</string>
+    <string name="login">LogIn</string>
+    <string name="singup">SingUp</string>
+    <string name="my_canteen">My canteen</string>
+    <string name="remove">REMOVE</string>
+    <string name="rs">Rs.</string>
+    <string name="price">Price:</string>
+    <string name="quantity">Quantity:</string>
+    <string name="name">Name:</string>
+    <string name="order_name">Order Name</string>
+    <string name="price1">Price</string>
+    <string name="quantity1">Quantity</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>
